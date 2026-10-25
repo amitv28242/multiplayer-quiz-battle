@@ -25,7 +25,7 @@ A fun, interactive quiz game where players answer trivia questions, earn points,
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/amitv28242/quiz-battle.git
+     https://github.com/amitv28242/multiplayer-quiz-battle.git
    ```
 
 2. Open the project folder.
